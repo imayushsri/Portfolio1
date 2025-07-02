@@ -37,20 +37,20 @@ const Education = () => {
                     <div className="col-lg-4 col-md-6 col-sm-12 mt-4">
                         <div className="eduBox shadow-lg p-4 rounded-4 h-100 d-flex flex-column align-items-center justify-content-center">
                             <div className="eduContent text-center">
-                                <span className="text-info fw-semibold d-block mb-2 fs-5">{personalData.edu1Year}</span>
-                                <h3 className="text-white fw-bold mb-1 fs-4">{personalData.edu1Course} ({personalData.edu1Stream})</h3>
-                                <p className="text-light mb-2 fs-5">{personalData.edu1College}</p>
-                                <span className="badge bg-info text-dark fs-6 px-3 py-2">Grade: {personalData.edu1Grade}</span>
+                                <span className="text-info fw-semibold d-block mb-2 fs-5">{personalData.edu2Year}</span>
+                                <h3 className="text-white fw-bold mb-1 fs-4">{personalData.edu2Course} ({personalData.edu2Stream})</h3>
+                                <p className="text-light mb-2 fs-5">{personalData.edu2College}</p>
+                                <span className="badge bg-info text-dark fs-6 px-3 py-2">Grade: {personalData.edu2Grade}</span>
                             </div>
                         </div>
                     </div>
                     <div className="col-lg-4 col-md-6 col-sm-12 mt-4">
                         <div className="eduBox shadow-lg p-4 rounded-4 h-100 d-flex flex-column align-items-center justify-content-center">
                             <div className="eduContent text-center">
-                                <span className="text-info fw-semibold d-block mb-2 fs-5">{personalData.edu1Year}</span>
-                                <h3 className="text-white fw-bold mb-1 fs-4">{personalData.edu1Course} ({personalData.edu1Stream})</h3>
-                                <p className="text-light mb-2 fs-5">{personalData.edu1College}</p>
-                                <span className="badge bg-info text-dark fs-6 px-3 py-2">Grade: {personalData.edu1Grade}</span>
+                                <span className="text-info fw-semibold d-block mb-2 fs-5">{personalData.edu3Year}</span>
+                                <h3 className="text-white fw-bold mb-1 fs-4">{personalData.edu3Course} ({personalData.edu3Stream})</h3>
+                                <p className="text-light mb-2 fs-5">{personalData.edu3College}</p>
+                                <span className="badge bg-info text-dark fs-6 px-3 py-2">Grade: {personalData.edu3Grade}</span>
                             </div>
                         </div>
                     </div>
