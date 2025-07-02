@@ -31,15 +31,15 @@ const personalData = {
     edu1College: "College Name",
     edu1Grade: "A+",
 
-    edu2Year: "2022 - 2025",
-    edu2Course: "Diploma",
-    edu2Stream: "Computer Science",
+    edu2Year: "Year - Year",
+    edu2Course: "Course",
+    edu2Stream: "Stream",
     edu2College: "College Name",
     edu2Grade: "A+",
 
-    edu3Year: "2022 - 2025",
-    edu3Course: "Diploma",
-    edu3Stream: "Computer Science",
+    edu3Year: "Year - Year",
+    edu3Course: "Course",
+    edu3Stream: "Stream",
     edu3College: "College Name",
     edu3Grade: "A+",
 
