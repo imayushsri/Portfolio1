@@ -49,7 +49,7 @@ const Home = () => {
               <a href={personalData.instagram}><RiInstagramFill /></a>
               <a href={personalData.mail}><RiMailFill /></a>
             </div>
-            <a href="#" className="btn">Download CV</a>
+            <a href={personalData.resume} className="btn">Download CV</a>
           </div>
 
           {/* Right Image */}

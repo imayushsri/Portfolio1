@@ -9,6 +9,7 @@ const personalData = {
     twitter: "https://twitter.com/imayush_sri",
     instagram: "https://www.instagram.com/imayushsri/",
     mail: "mailto:ayush@example.com",
+    resume: "resume/resume.pdf",
 
     // About Section
     aboutImg: "images/about.png",
