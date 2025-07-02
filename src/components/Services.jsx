@@ -53,7 +53,7 @@ const Services = () => {
             </div>
           </div>
 
-          <div className="col-lg-4 col-md-6 col-sm-12">
+          <div className="col-lg-4 col-md-6 col-sm-12" data-aos="fade-up">
             <div className="card services-box mt-5">
               <div className="card-body text-center">
                 <RiAndroidLine className="services-i my-5" />
